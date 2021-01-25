@@ -1,4 +1,4 @@
-# Life-Expectancy-Prediction_World-Health-Organization
+# Life Expectancy Prediction_World Health Organization
 
 ### In this project, we have used Machine Learning Regression Models to predict the life expectancy of people in various countries of the world using WHO data
 
